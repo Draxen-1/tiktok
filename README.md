@@ -8,6 +8,10 @@ pkg update && pkg upgrade -y
 pkg install python git nano -y
 
 
+git clone https://github.com/Draxen-1/tiktok.git
+
+
+cd tiktok
 python skyban.py
 
 
